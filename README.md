@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/yuulive/finances/master/docs/logo.png" alt="Finances logo" width="480">
-</p>
-
 ```rust
 use finances;
 
