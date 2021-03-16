@@ -1,12 +1,12 @@
 [package]
-name = "socrates_rs"
-version = "1.0.0"
+name = "finances"
+version = "0.0.0"
 authors = ["SLourenco <sergio.santos.lourenco@protonmail.com>"]
 edition = "2018"
-repository = "https://github.com/reducktion/socrates-rs"
+repository = "https://github.com/yuulive/finances"
 readme = "README.md"
 license = "MIT"
-description = "Validate and Extract information from National Identification Numbers."
+description = "Use Rust to Validate and Extract information from N.I.N.s."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
